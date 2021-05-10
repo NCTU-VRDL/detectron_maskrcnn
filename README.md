@@ -11,16 +11,10 @@ It supports a number of computer vision research projects and production applica
   <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
 </div>
 
-### What's New
-* Includes new capabilities such as panoptic segmentation, Densepose, Cascade R-CNN, rotated bounding boxes, PointRend,
-  DeepLab, etc.
-* Used as a library to support building [research projects](projects/) on top of it.
-* Models can be exported to TorchScript format or Caffe2 format for deployment.
-* It [trains much faster](https://detectron2.readthedocs.io/notes/benchmarks.html).
-
-See our [blog post](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
-to see more demos and learn about detectron2.
-
+## Download pre-traine weights
+```bash
+wget https://dl.fbaipublicfiles.com/detectron2/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+```
 ## Installation
 
 See [installation instructions](https://detectron2.readthedocs.io/tutorials/install.html).
