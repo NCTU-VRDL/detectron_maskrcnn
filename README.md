@@ -17,6 +17,21 @@ wget https://dl.fbaipublicfiles.com/detectron2/COCO-InstanceSegmentation/mask_rc
 
 See [installation instructions](https://detectron2.readthedocs.io/tutorials/install.html).
 
+## Colab
+[https://drive.google.com/drive/folders/1-njpOJC79PyZlIyCV8OFIag8l6P_UeNd](https://drive.google.com/drive/folders/1-njpOJC79PyZlIyCV8OFIag8l6P_UeNd)
+
+### Exercise1:
+Familiar with the segmentation data format. Open the [exercise1_dataformat.ipynb](https://github.com/NCTU-VRDL/detectron_maskrcnn/blob/master/exercise1_dataformat.ipynb)
+
+### Exercise2:
+Mask R-CNN model inference. Open the [exercise2_inference.ipynb](https://github.com/NCTU-VRDL/detectron_maskrcnn/blob/master/exercise2_inference.ipynb)
+
+### Exercise3:
+Mask R-CNN model training. Open the [exercise3_training.ipynb](https://github.com/NCTU-VRDL/detectron_maskrcnn/blob/master/exercise3_training.ipynb)
+
+### Exercise4:
+See other Mask R-CNN model based applications. Open the [exercise4_applications.ipynb](https://github.com/NCTU-VRDL/detectron_maskrcnn/blob/master/exercise4_applications.ipynb)
+
 ## Getting Started
 
 See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html),
